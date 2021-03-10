@@ -6,4 +6,4 @@ SDD2    ->  GPIO9   ->  []
 SDD1    ->  GPIO8   ->  []
 SDDCMD  ->  GPIO11  ->  []
 SDD0    ->  GPIO7   ->  []
-SDCLK   ->  GPIO6   ->  []
+SDCLK   
