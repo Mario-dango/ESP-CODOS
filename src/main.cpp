@@ -53,7 +53,7 @@ void loop() {
         Serial.print(temp);
         Serial.println("°C");
 
-        asodinasodinaosd
+        
     }
 
 
